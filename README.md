@@ -43,19 +43,19 @@ Secure & scalable architecture
 
 🏗️ Tech Stack
 🎯 Frontend
-Technology	Purpose
-React (Vite)	Frontend framework
-Axios	API calls
-Bootstrap / Custom CSS	Styling
-JavaScript	Logic
+Technology	Purpose<br/>
+React (Vite)	Frontend framework<br/>
+Axios	API calls<br/>
+Bootstrap / Custom CSS	Styling<br/>
+JavaScript	Logic<br/>
 ⚙️ Backend
-Technology	Purpose
-Spring Boot	Backend Framework
-Spring Web	REST APIs
-Spring Data JPA	Database ORM
-PostgreSQL	Database
-Hibernate	ORM framework
-📁 Project Structure
+Technology	Purpose<br/>
+Spring Boot	Backend Framework<br/>
+Spring Web	REST APIs<br/>
+Spring Data JPA	Database ORM<br/>
+PostgreSQL	Database<br/>
+Hibernate	ORM framework<br/>
+📁 Project Structure<br/>
 ecommerce-project/
    ├── Ecom-backend/      # Spring Boot backend
    └── Ecom-frontend/     # React + Vite frontend
@@ -79,5 +79,6 @@ GET	/product/{id}	Get product by ID<br/>
 PUT	/product/{id}	Update product<br/>
 DELETE	/product/{id}	Delete product<br/>
 POST	/orders	Place order<br/>
-GET	/orders	Get all orders<br/>
-<img width="1366" height="768" alt="ecom" src="https://github.com/user-attachments/assets/b599ccb4-d43b-489d-9221-efaade276ae7" />
+GET	/orders	Get all order
+s<br/>
+<img width="1344" height="768" alt="ecom new" src="https://github.com/user-attachments/assets/269c9f61-7526-4627-91ff-b7759481e88c" />
