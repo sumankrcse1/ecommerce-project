@@ -66,16 +66,18 @@ cd Ecom-backend
 mvn spring-boot:run
 
 ▶️ 2. Start the Frontend
+
 cd Ecom-frontend
 npm install
 npm run dev
 
 📡 API Endpoints
-Method	Endpoint	Description
-POST	/product	Add product
-GET	/products	Get all products
-GET	/product/{id}	Get product by ID
-PUT	/product/{id}	Update product
-DELETE	/product/{id}	Delete product
-POST	/orders	Place order
-GET	/orders	Get all orders
+Method	Endpoint	Description <br/>
+POST	/product	Add product<br/>
+GET	/products	Get all products<br/>
+GET	/product/{id}	Get product by ID<br/>
+PUT	/product/{id}	Update product<br/>
+DELETE	/product/{id}	Delete product<br/>
+POST	/orders	Place order<br/>
+GET	/orders	Get all orders<br/>
+<img width="1366" height="768" alt="ecom" src="https://github.com/user-attachments/assets/b599ccb4-d43b-489d-9221-efaade276ae7" />
